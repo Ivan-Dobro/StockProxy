@@ -1,0 +1,1 @@
+uvicorn stock.main:app --reload
