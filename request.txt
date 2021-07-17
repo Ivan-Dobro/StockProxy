@@ -1,0 +1,2 @@
+http://127.0.0.1:8000/stock-in?currency=Eursd&date=2021.07.01_12:46&frame=m1&open=1.22296&high=1.22305&low=1.22295&close=1.22303
+
